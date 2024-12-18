@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'motors_drive = robot_control.motors_drive:main',
+            'ultrasonic = robot_control.ultrasonic:main',
         ],
     },
 )
