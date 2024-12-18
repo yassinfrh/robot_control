@@ -6,8 +6,8 @@ from sensor_msgs.msg import Range
 import math
 
 # Set the GPIO pins
-TRIGGER = 14
-ECHO = 4
+TRIGGER = 9
+ECHO = 8
 
 class Ultrasonic(Node):
     def __init__(self):
