@@ -1,0 +1,4 @@
+string text
+float64 scrolling_delay
+float64 start_delay
+float64 end_delay
