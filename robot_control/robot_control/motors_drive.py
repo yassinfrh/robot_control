@@ -43,7 +43,7 @@ R_BOTTOM_PWM : 13
 PWM_FREQUENCY = 1000 # 1 kHz
 
 # Power
-POWER = 30 # %
+POWER = 40 # %
 
 # Motor drive class
 class MotorsDrive(Node):
