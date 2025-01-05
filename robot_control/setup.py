@@ -26,6 +26,7 @@ setup(
             'motors_drive = robot_control.motors_drive:main',
             'ultrasonic = robot_control.ultrasonic:main',
             'led_panel = robot_control.led_panel:main',
+            'camera_servo_drive = robot_control.camera_servo_drive:main',
         ],
     },
 )
